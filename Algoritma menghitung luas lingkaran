@@ -1,0 +1,5 @@
+Inisiasi: 1. Luas dalam bentuk cm
+          2. Phi adalah 3.14
+          3. Jari-jari lingkaran
+Proses: 3. Luas=Phi*jari-jari*jari-jari
+Output: 4. Tampilkan luas
